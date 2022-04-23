@@ -1,1 +1,1 @@
-# BCE-EADC-model-for-Arabic-and-English-NER-task
+# BCE-EADC-model-for-English-NER-task
